@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\2_add_namespace\bin\Debug\2_add_namespace.exe.config
+C:\Users\user\source\repos\2_add_namespace\bin\Debug\2_add_namespace.exe
+C:\Users\user\source\repos\2_add_namespace\bin\Debug\2_add_namespace.pdb
+C:\Users\user\source\repos\2_add_namespace\obj\Debug\2_add_namespace.csprojAssemblyReference.cache
+C:\Users\user\source\repos\2_add_namespace\obj\Debug\2_add_namespace.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\2_add_namespace\obj\Debug\2_add_namespace.exe
+C:\Users\user\source\repos\2_add_namespace\obj\Debug\2_add_namespace.pdb
