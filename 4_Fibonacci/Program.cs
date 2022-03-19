@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +21,7 @@ namespace _4_Fibonacci
         {
             if (n == 0) return 1;
             if (n == 1) return 1;
-            if (n >= 2) return fibo(n - 1) + fibo(n - 2); // 실제로 함수를 2개 씩 자꾸 불어나기에 n^2에 가깝다
+            if (n >= 2) return fibo(n - 1) + fibo(n - 2); // 실제로 함수를 2개 씩 자꾸 불어나기에 n*n에 가깝다
 
             Console.WriteLine("Unexpected minus argument occur!!");
             Environment.Exit(-1);
@@ -46,7 +46,7 @@ namespace _4_Fibonacci
                 f0 = f1;
                 f1 = f2;
             }
-            return f2;
+            return f2; // 시간 복잡도는 O(n)이다
         }
         static void Main(string[] args)
         {
