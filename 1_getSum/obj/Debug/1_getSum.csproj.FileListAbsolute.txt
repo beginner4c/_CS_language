@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\1_getSum\bin\Debug\1_getSum.exe.config
+C:\Users\user\source\repos\1_getSum\bin\Debug\1_getSum.exe
+C:\Users\user\source\repos\1_getSum\bin\Debug\1_getSum.pdb
+C:\Users\user\source\repos\1_getSum\obj\Debug\1_getSum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\1_getSum\obj\Debug\1_getSum.exe
+C:\Users\user\source\repos\1_getSum\obj\Debug\1_getSum.pdb
