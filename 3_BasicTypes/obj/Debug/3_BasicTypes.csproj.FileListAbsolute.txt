@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\3_BasicTypes\bin\Debug\3_BasicTypes.exe.config
+C:\Users\user\Desktop\C#_vs\3_BasicTypes\bin\Debug\3_BasicTypes.exe
+C:\Users\user\Desktop\C#_vs\3_BasicTypes\bin\Debug\3_BasicTypes.pdb
+C:\Users\user\Desktop\C#_vs\3_BasicTypes\obj\Debug\3_BasicTypes.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\3_BasicTypes\obj\Debug\3_BasicTypes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\3_BasicTypes\obj\Debug\3_BasicTypes.exe
+C:\Users\user\Desktop\C#_vs\3_BasicTypes\obj\Debug\3_BasicTypes.pdb
