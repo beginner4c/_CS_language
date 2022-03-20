@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\5_HanoiTower\bin\Debug\5_HanoiTower.exe.config
+C:\Users\user\Desktop\C#_vs\5_HanoiTower\bin\Debug\5_HanoiTower.exe
+C:\Users\user\Desktop\C#_vs\5_HanoiTower\bin\Debug\5_HanoiTower.pdb
+C:\Users\user\Desktop\C#_vs\5_HanoiTower\obj\Debug\5_HanoiTower.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\5_HanoiTower\obj\Debug\5_HanoiTower.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\5_HanoiTower\obj\Debug\5_HanoiTower.exe
+C:\Users\user\Desktop\C#_vs\5_HanoiTower\obj\Debug\5_HanoiTower.pdb
