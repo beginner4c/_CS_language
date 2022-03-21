@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\7_ArrayTest\bin\Debug\7_ArrayTest.exe.config
+C:\Users\user\Desktop\C#_vs\7_ArrayTest\bin\Debug\7_ArrayTest.exe
+C:\Users\user\Desktop\C#_vs\7_ArrayTest\bin\Debug\7_ArrayTest.pdb
+C:\Users\user\Desktop\C#_vs\7_ArrayTest\obj\Debug\7_ArrayTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\7_ArrayTest\obj\Debug\7_ArrayTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\7_ArrayTest\obj\Debug\7_ArrayTest.exe
+C:\Users\user\Desktop\C#_vs\7_ArrayTest\obj\Debug\7_ArrayTest.pdb
