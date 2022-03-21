@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\6_PointTest\bin\Debug\6_PointTest.exe.config
+C:\Users\user\Desktop\C#_vs\6_PointTest\bin\Debug\6_PointTest.exe
+C:\Users\user\Desktop\C#_vs\6_PointTest\bin\Debug\6_PointTest.pdb
+C:\Users\user\Desktop\C#_vs\6_PointTest\obj\Debug\6_PointTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\6_PointTest\obj\Debug\6_PointTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\6_PointTest\obj\Debug\6_PointTest.exe
+C:\Users\user\Desktop\C#_vs\6_PointTest\obj\Debug\6_PointTest.pdb
