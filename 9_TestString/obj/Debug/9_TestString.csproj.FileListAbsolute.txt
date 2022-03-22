@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\9_TestString\obj\Debug\9_TestString.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\9_TestString\obj\Debug\9_TestString.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\9_TestString\bin\Debug\9_TestString.exe.config
+C:\Users\user\Desktop\C#_vs\9_TestString\bin\Debug\9_TestString.exe
+C:\Users\user\Desktop\C#_vs\9_TestString\bin\Debug\9_TestString.pdb
+C:\Users\user\Desktop\C#_vs\9_TestString\obj\Debug\9_TestString.exe
+C:\Users\user\Desktop\C#_vs\9_TestString\obj\Debug\9_TestString.pdb
