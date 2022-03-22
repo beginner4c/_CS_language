@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\8_TestStack\bin\Debug\8_TestStack.exe.config
+C:\Users\user\Desktop\C#_vs\8_TestStack\bin\Debug\8_TestStack.exe
+C:\Users\user\Desktop\C#_vs\8_TestStack\bin\Debug\8_TestStack.pdb
+C:\Users\user\Desktop\C#_vs\8_TestStack\obj\Debug\8_TestStack.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\8_TestStack\obj\Debug\8_TestStack.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\8_TestStack\obj\Debug\8_TestStack.exe
+C:\Users\user\Desktop\C#_vs\8_TestStack\obj\Debug\8_TestStack.pdb
