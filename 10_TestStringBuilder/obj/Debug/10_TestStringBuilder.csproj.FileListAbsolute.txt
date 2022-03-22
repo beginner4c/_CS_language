@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\10_TestStringBuilder\bin\Debug\10_TestStringBuilder.exe.config
+C:\Users\user\Desktop\C#_vs\10_TestStringBuilder\bin\Debug\10_TestStringBuilder.exe
+C:\Users\user\Desktop\C#_vs\10_TestStringBuilder\bin\Debug\10_TestStringBuilder.pdb
+C:\Users\user\Desktop\C#_vs\10_TestStringBuilder\obj\Debug\10_TestStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\10_TestStringBuilder\obj\Debug\10_TestStringBuilder.exe
+C:\Users\user\Desktop\C#_vs\10_TestStringBuilder\obj\Debug\10_TestStringBuilder.pdb
+C:\Users\user\Desktop\C#_vs\10_TestStringBuilder\obj\Debug\10_TestStringBuilder.csprojAssemblyReference.cache
