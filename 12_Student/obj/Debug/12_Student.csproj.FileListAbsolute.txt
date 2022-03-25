@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\12_Student\bin\Debug\12_Student.exe.config
+C:\Users\user\Desktop\C#_vs\12_Student\bin\Debug\12_Student.exe
+C:\Users\user\Desktop\C#_vs\12_Student\bin\Debug\12_Student.pdb
+C:\Users\user\Desktop\C#_vs\12_Student\obj\Debug\12_Student.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\12_Student\obj\Debug\12_Student.exe
+C:\Users\user\Desktop\C#_vs\12_Student\obj\Debug\12_Student.pdb
+C:\Users\user\Desktop\C#_vs\12_Student\obj\Debug\12_Student.csprojAssemblyReference.cache
