@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\13_PostfixEvaluator\bin\Debug\13_PostfixEvaluator.exe.config
+C:\Users\user\Desktop\C#_vs\13_PostfixEvaluator\bin\Debug\13_PostfixEvaluator.exe
+C:\Users\user\Desktop\C#_vs\13_PostfixEvaluator\bin\Debug\13_PostfixEvaluator.pdb
+C:\Users\user\Desktop\C#_vs\13_PostfixEvaluator\obj\Debug\13_PostfixEvaluator.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\13_PostfixEvaluator\obj\Debug\13_PostfixEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\13_PostfixEvaluator\obj\Debug\13_PostfixEvaluator.exe
+C:\Users\user\Desktop\C#_vs\13_PostfixEvaluator\obj\Debug\13_PostfixEvaluator.pdb
