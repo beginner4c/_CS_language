@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\15_2d_array\bin\Debug\15_2d_array.exe.config
+C:\Users\user\source\repos\15_2d_array\bin\Debug\15_2d_array.exe
+C:\Users\user\source\repos\15_2d_array\bin\Debug\15_2d_array.pdb
+C:\Users\user\source\repos\15_2d_array\obj\Debug\15_2d_array.csprojAssemblyReference.cache
+C:\Users\user\source\repos\15_2d_array\obj\Debug\15_2d_array.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\15_2d_array\obj\Debug\15_2d_array.exe
+C:\Users\user\source\repos\15_2d_array\obj\Debug\15_2d_array.pdb
