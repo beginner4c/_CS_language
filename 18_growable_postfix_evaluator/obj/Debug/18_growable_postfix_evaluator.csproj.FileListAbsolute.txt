@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\18_growable_postfix_evaluator\bin\Debug\18_growable_postfix_evaluator.exe.config
+C:\Users\user\Desktop\C#_vs\18_growable_postfix_evaluator\bin\Debug\18_growable_postfix_evaluator.exe
+C:\Users\user\Desktop\C#_vs\18_growable_postfix_evaluator\bin\Debug\18_growable_postfix_evaluator.pdb
+C:\Users\user\Desktop\C#_vs\18_growable_postfix_evaluator\obj\Debug\18_growable_postfix_evaluator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\18_growable_postfix_evaluator\obj\Debug\18_growable_postfix_evaluator.exe
+C:\Users\user\Desktop\C#_vs\18_growable_postfix_evaluator\obj\Debug\18_growable_postfix_evaluator.pdb
+C:\Users\user\Desktop\C#_vs\18_growable_postfix_evaluator\obj\Debug\18_growable_postfix_evaluator.csprojAssemblyReference.cache

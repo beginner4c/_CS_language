@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18_growable_postfix_evaluator", "18_growable_postfix_evaluator.csproj", "{FEB81A05-05D1-4B86-BB72-43F2F6A3E753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB81A05-05D1-4B86-BB72-43F2F6A3E753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB81A05-05D1-4B86-BB72-43F2F6A3E753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB81A05-05D1-4B86-BB72-43F2F6A3E753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB81A05-05D1-4B86-BB72-43F2F6A3E753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88783ADD-4334-4154-BD0D-931C578D8CD4}
+	EndGlobalSection
+EndGlobal
