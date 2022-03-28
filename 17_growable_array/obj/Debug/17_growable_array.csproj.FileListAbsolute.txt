@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\17_growable_array\bin\Debug\17_growable_array.exe.config
+C:\Users\user\Desktop\C#_vs\17_growable_array\bin\Debug\17_growable_array.exe
+C:\Users\user\Desktop\C#_vs\17_growable_array\bin\Debug\17_growable_array.pdb
+C:\Users\user\Desktop\C#_vs\17_growable_array\obj\Debug\17_growable_array.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\17_growable_array\obj\Debug\17_growable_array.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\17_growable_array\obj\Debug\17_growable_array.exe
+C:\Users\user\Desktop\C#_vs\17_growable_array\obj\Debug\17_growable_array.pdb
