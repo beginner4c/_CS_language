@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\19_compare_Link_Array\bin\Debug\19_compare_Link_Array.exe.config
+C:\Users\user\Desktop\C#_vs\19_compare_Link_Array\bin\Debug\19_compare_Link_Array.exe
+C:\Users\user\Desktop\C#_vs\19_compare_Link_Array\bin\Debug\19_compare_Link_Array.pdb
+C:\Users\user\Desktop\C#_vs\19_compare_Link_Array\obj\Debug\19_compare_Link_Array.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\19_compare_Link_Array\obj\Debug\19_compare_Link_Array.exe
+C:\Users\user\Desktop\C#_vs\19_compare_Link_Array\obj\Debug\19_compare_Link_Array.pdb
+C:\Users\user\Desktop\C#_vs\19_compare_Link_Array\obj\Debug\19_compare_Link_Array.csprojAssemblyReference.cache
