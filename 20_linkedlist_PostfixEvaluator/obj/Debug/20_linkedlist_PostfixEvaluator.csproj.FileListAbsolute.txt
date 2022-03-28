@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\20_linkedlist_PostfixEvaluator\bin\Debug\20_linkedlist_PostfixEvaluator.exe.config
+C:\Users\user\Desktop\C#_vs\20_linkedlist_PostfixEvaluator\bin\Debug\20_linkedlist_PostfixEvaluator.exe
+C:\Users\user\Desktop\C#_vs\20_linkedlist_PostfixEvaluator\bin\Debug\20_linkedlist_PostfixEvaluator.pdb
+C:\Users\user\Desktop\C#_vs\20_linkedlist_PostfixEvaluator\obj\Debug\20_linkedlist_PostfixEvaluator.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\20_linkedlist_PostfixEvaluator\obj\Debug\20_linkedlist_PostfixEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\20_linkedlist_PostfixEvaluator\obj\Debug\20_linkedlist_PostfixEvaluator.exe
+C:\Users\user\Desktop\C#_vs\20_linkedlist_PostfixEvaluator\obj\Debug\20_linkedlist_PostfixEvaluator.pdb
