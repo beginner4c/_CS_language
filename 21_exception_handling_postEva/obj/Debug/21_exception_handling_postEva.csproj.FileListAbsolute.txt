@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\21_exception_handling_postEva\bin\Debug\21_exception_handling_postEva.exe.config
+C:\Users\user\Desktop\C#_vs\21_exception_handling_postEva\bin\Debug\21_exception_handling_postEva.exe
+C:\Users\user\Desktop\C#_vs\21_exception_handling_postEva\bin\Debug\21_exception_handling_postEva.pdb
+C:\Users\user\Desktop\C#_vs\21_exception_handling_postEva\obj\Debug\21_exception_handling_postEva.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\21_exception_handling_postEva\obj\Debug\21_exception_handling_postEva.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\21_exception_handling_postEva\obj\Debug\21_exception_handling_postEva.exe
+C:\Users\user\Desktop\C#_vs\21_exception_handling_postEva\obj\Debug\21_exception_handling_postEva.pdb
