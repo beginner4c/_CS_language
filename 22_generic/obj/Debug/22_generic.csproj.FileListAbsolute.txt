@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\22_generic\bin\Debug\22_generic.exe.config
+C:\Users\user\Desktop\C#_vs\22_generic\bin\Debug\22_generic.exe
+C:\Users\user\Desktop\C#_vs\22_generic\bin\Debug\22_generic.pdb
+C:\Users\user\Desktop\C#_vs\22_generic\obj\Debug\22_generic.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\22_generic\obj\Debug\22_generic.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\22_generic\obj\Debug\22_generic.exe
+C:\Users\user\Desktop\C#_vs\22_generic\obj\Debug\22_generic.pdb
