@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\24_ComplexNumberTest\bin\Debug\24_ComplexNumberTest.exe.config
+C:\Users\user\Desktop\C#_vs\24_ComplexNumberTest\bin\Debug\24_ComplexNumberTest.exe
+C:\Users\user\Desktop\C#_vs\24_ComplexNumberTest\bin\Debug\24_ComplexNumberTest.pdb
+C:\Users\user\Desktop\C#_vs\24_ComplexNumberTest\obj\Debug\24_ComplexNumberTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\24_ComplexNumberTest\obj\Debug\24_ComplexNumberTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\24_ComplexNumberTest\obj\Debug\24_ComplexNumberTest.exe
+C:\Users\user\Desktop\C#_vs\24_ComplexNumberTest\obj\Debug\24_ComplexNumberTest.pdb
