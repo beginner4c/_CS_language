@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\25_Inheritance\bin\Debug\25_Inheritance.exe.config
+C:\Users\user\source\repos\25_Inheritance\bin\Debug\25_Inheritance.exe
+C:\Users\user\source\repos\25_Inheritance\bin\Debug\25_Inheritance.pdb
+C:\Users\user\source\repos\25_Inheritance\obj\Debug\25_Inheritance.csprojAssemblyReference.cache
+C:\Users\user\source\repos\25_Inheritance\obj\Debug\25_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\25_Inheritance\obj\Debug\25_Inheritance.exe
+C:\Users\user\source\repos\25_Inheritance\obj\Debug\25_Inheritance.pdb
