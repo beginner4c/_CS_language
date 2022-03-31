@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\29_matrix operation\bin\Debug\29_matrix operation.exe.config
+C:\Users\user\Desktop\C#_vs\29_matrix operation\bin\Debug\29_matrix operation.exe
+C:\Users\user\Desktop\C#_vs\29_matrix operation\bin\Debug\29_matrix operation.pdb
+C:\Users\user\Desktop\C#_vs\29_matrix operation\obj\Debug\29_matrix operation.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\29_matrix operation\obj\Debug\29_matrix operation.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\29_matrix operation\obj\Debug\29_matrix operation.exe
+C:\Users\user\Desktop\C#_vs\29_matrix operation\obj\Debug\29_matrix operation.pdb
