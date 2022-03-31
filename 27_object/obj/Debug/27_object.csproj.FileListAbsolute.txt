@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\27_object\bin\Debug\27_object.exe.config
+C:\Users\user\source\repos\27_object\bin\Debug\27_object.exe
+C:\Users\user\source\repos\27_object\bin\Debug\27_object.pdb
+C:\Users\user\source\repos\27_object\obj\Debug\27_object.csprojAssemblyReference.cache
+C:\Users\user\source\repos\27_object\obj\Debug\27_object.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\27_object\obj\Debug\27_object.exe
+C:\Users\user\source\repos\27_object\obj\Debug\27_object.pdb
