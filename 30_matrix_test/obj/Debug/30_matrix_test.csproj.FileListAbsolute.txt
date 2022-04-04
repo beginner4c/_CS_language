@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\30_matrix_test\bin\Debug\30_matrix_test.exe.config
+C:\Users\user\Desktop\C#_vs\30_matrix_test\bin\Debug\30_matrix_test.exe
+C:\Users\user\Desktop\C#_vs\30_matrix_test\bin\Debug\30_matrix_test.pdb
+C:\Users\user\Desktop\C#_vs\30_matrix_test\obj\Debug\30_matrix_test.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\30_matrix_test\obj\Debug\30_matrix_test.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\30_matrix_test\obj\Debug\30_matrix_test.exe
+C:\Users\user\Desktop\C#_vs\30_matrix_test\obj\Debug\30_matrix_test.pdb
