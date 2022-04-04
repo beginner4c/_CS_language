@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\31_matrix_DynamicArray\bin\Debug\31_matrix_DynamicArray.exe.config
+C:\Users\user\Desktop\C#_vs\31_matrix_DynamicArray\bin\Debug\31_matrix_DynamicArray.exe
+C:\Users\user\Desktop\C#_vs\31_matrix_DynamicArray\bin\Debug\31_matrix_DynamicArray.pdb
+C:\Users\user\Desktop\C#_vs\31_matrix_DynamicArray\obj\Debug\31_matrix_DynamicArray.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\31_matrix_DynamicArray\obj\Debug\31_matrix_DynamicArray.exe
+C:\Users\user\Desktop\C#_vs\31_matrix_DynamicArray\obj\Debug\31_matrix_DynamicArray.pdb
+C:\Users\user\Desktop\C#_vs\31_matrix_DynamicArray\obj\Debug\31_matrix_DynamicArray.csprojAssemblyReference.cache
