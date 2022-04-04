@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\32_PointTest\obj\Debug\32_PointTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\32_PointTest\obj\Debug\32_PointTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\32_PointTest\bin\Debug\32_PointTest.exe.config
+C:\Users\user\Desktop\C#_vs\32_PointTest\bin\Debug\32_PointTest.exe
+C:\Users\user\Desktop\C#_vs\32_PointTest\bin\Debug\32_PointTest.pdb
+C:\Users\user\Desktop\C#_vs\32_PointTest\obj\Debug\32_PointTest.exe
+C:\Users\user\Desktop\C#_vs\32_PointTest\obj\Debug\32_PointTest.pdb
