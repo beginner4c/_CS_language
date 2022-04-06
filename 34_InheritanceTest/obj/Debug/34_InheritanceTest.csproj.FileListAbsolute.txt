@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\34_InheritanceTest\bin\Debug\34_InheritanceTest.exe.config
+C:\Users\user\Desktop\C#_vs\34_InheritanceTest\bin\Debug\34_InheritanceTest.exe
+C:\Users\user\Desktop\C#_vs\34_InheritanceTest\bin\Debug\34_InheritanceTest.pdb
+C:\Users\user\Desktop\C#_vs\34_InheritanceTest\obj\Debug\34_InheritanceTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\34_InheritanceTest\obj\Debug\34_InheritanceTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\34_InheritanceTest\obj\Debug\34_InheritanceTest.exe
+C:\Users\user\Desktop\C#_vs\34_InheritanceTest\obj\Debug\34_InheritanceTest.pdb
