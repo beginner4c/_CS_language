@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\36_another_Matrix\bin\Debug\36_another_Matrix.exe.config
+C:\Users\user\Desktop\C#_vs\36_another_Matrix\bin\Debug\36_another_Matrix.exe
+C:\Users\user\Desktop\C#_vs\36_another_Matrix\bin\Debug\36_another_Matrix.pdb
+C:\Users\user\Desktop\C#_vs\36_another_Matrix\obj\Debug\36_another_Matrix.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\36_another_Matrix\obj\Debug\36_another_Matrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\36_another_Matrix\obj\Debug\36_another_Matrix.exe
+C:\Users\user\Desktop\C#_vs\36_another_Matrix\obj\Debug\36_another_Matrix.pdb
