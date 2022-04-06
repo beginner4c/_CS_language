@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#_vs\35_ProductMatrix\bin\Debug\35_ProductMatrix.exe.config
+C:\Users\user\Desktop\C#_vs\35_ProductMatrix\bin\Debug\35_ProductMatrix.exe
+C:\Users\user\Desktop\C#_vs\35_ProductMatrix\bin\Debug\35_ProductMatrix.pdb
+C:\Users\user\Desktop\C#_vs\35_ProductMatrix\obj\Debug\35_ProductMatrix.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\35_ProductMatrix\obj\Debug\35_ProductMatrix.exe
+C:\Users\user\Desktop\C#_vs\35_ProductMatrix\obj\Debug\35_ProductMatrix.pdb
