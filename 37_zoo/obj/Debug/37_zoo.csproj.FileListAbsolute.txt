@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\37_zoo\bin\Debug\37_zoo.exe.config
+C:\Users\user\Desktop\C#_vs\37_zoo\bin\Debug\37_zoo.exe
+C:\Users\user\Desktop\C#_vs\37_zoo\bin\Debug\37_zoo.pdb
+C:\Users\user\Desktop\C#_vs\37_zoo\obj\Debug\37_zoo.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\37_zoo\obj\Debug\37_zoo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\37_zoo\obj\Debug\37_zoo.exe
+C:\Users\user\Desktop\C#_vs\37_zoo\obj\Debug\37_zoo.pdb
