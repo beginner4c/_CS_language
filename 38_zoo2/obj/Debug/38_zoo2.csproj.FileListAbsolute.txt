@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#_vs\38_zoo2\obj\Debug\38_zoo2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\38_zoo2\bin\Debug\38_zoo2.exe.config
+C:\Users\user\Desktop\C#_vs\38_zoo2\bin\Debug\38_zoo2.exe
+C:\Users\user\Desktop\C#_vs\38_zoo2\bin\Debug\38_zoo2.pdb
+C:\Users\user\Desktop\C#_vs\38_zoo2\obj\Debug\38_zoo2.exe
+C:\Users\user\Desktop\C#_vs\38_zoo2\obj\Debug\38_zoo2.pdb
