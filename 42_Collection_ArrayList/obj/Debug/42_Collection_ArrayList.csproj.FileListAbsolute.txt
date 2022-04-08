@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#_vs\42_Collection_ArrayList\bin\Debug\42_Collection_ArrayList.exe.config
+C:\Users\user\Desktop\C#_vs\42_Collection_ArrayList\bin\Debug\42_Collection_ArrayList.exe
+C:\Users\user\Desktop\C#_vs\42_Collection_ArrayList\bin\Debug\42_Collection_ArrayList.pdb
+C:\Users\user\Desktop\C#_vs\42_Collection_ArrayList\obj\Debug\42_Collection_ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\42_Collection_ArrayList\obj\Debug\42_Collection_ArrayList.exe
+C:\Users\user\Desktop\C#_vs\42_Collection_ArrayList\obj\Debug\42_Collection_ArrayList.pdb
