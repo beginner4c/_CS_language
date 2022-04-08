@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\40_zoo4\bin\Debug\40_zoo4.exe.config
+C:\Users\user\Desktop\C#_vs\40_zoo4\bin\Debug\40_zoo4.exe
+C:\Users\user\Desktop\C#_vs\40_zoo4\bin\Debug\40_zoo4.pdb
+C:\Users\user\Desktop\C#_vs\40_zoo4\obj\Debug\40_zoo4.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\40_zoo4\obj\Debug\40_zoo4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\40_zoo4\obj\Debug\40_zoo4.exe
+C:\Users\user\Desktop\C#_vs\40_zoo4\obj\Debug\40_zoo4.pdb
