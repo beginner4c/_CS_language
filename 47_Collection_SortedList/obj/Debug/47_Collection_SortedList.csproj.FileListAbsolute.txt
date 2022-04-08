@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#_vs\47_Collection_SortedList\bin\Debug\47_Collection_SortedList.exe.config
+C:\Users\user\Desktop\C#_vs\47_Collection_SortedList\bin\Debug\47_Collection_SortedList.exe
+C:\Users\user\Desktop\C#_vs\47_Collection_SortedList\bin\Debug\47_Collection_SortedList.pdb
+C:\Users\user\Desktop\C#_vs\47_Collection_SortedList\obj\Debug\47_Collection_SortedList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\47_Collection_SortedList\obj\Debug\47_Collection_SortedList.exe
+C:\Users\user\Desktop\C#_vs\47_Collection_SortedList\obj\Debug\47_Collection_SortedList.pdb
