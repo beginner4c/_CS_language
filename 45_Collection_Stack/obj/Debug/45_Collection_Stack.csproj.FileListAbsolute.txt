@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#_vs\45_Collection_Stack\bin\Debug\45_Collection_Stack.exe.config
+C:\Users\user\Desktop\C#_vs\45_Collection_Stack\bin\Debug\45_Collection_Stack.exe
+C:\Users\user\Desktop\C#_vs\45_Collection_Stack\bin\Debug\45_Collection_Stack.pdb
+C:\Users\user\Desktop\C#_vs\45_Collection_Stack\obj\Debug\45_Collection_Stack.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\45_Collection_Stack\obj\Debug\45_Collection_Stack.exe
+C:\Users\user\Desktop\C#_vs\45_Collection_Stack\obj\Debug\45_Collection_Stack.pdb
