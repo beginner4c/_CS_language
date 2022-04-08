@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\43_Collection_LinkedList\bin\Debug\43_Collection_LinkedList.exe.config
+C:\Users\user\Desktop\C#_vs\43_Collection_LinkedList\bin\Debug\43_Collection_LinkedList.exe
+C:\Users\user\Desktop\C#_vs\43_Collection_LinkedList\bin\Debug\43_Collection_LinkedList.pdb
+C:\Users\user\Desktop\C#_vs\43_Collection_LinkedList\obj\Debug\43_Collection_LinkedList.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\43_Collection_LinkedList\obj\Debug\43_Collection_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\43_Collection_LinkedList\obj\Debug\43_Collection_LinkedList.exe
+C:\Users\user\Desktop\C#_vs\43_Collection_LinkedList\obj\Debug\43_Collection_LinkedList.pdb
