@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\48_TestList\bin\Debug\48_TestList.exe.config
+C:\Users\user\Desktop\C#_vs\48_TestList\bin\Debug\48_TestList.exe
+C:\Users\user\Desktop\C#_vs\48_TestList\bin\Debug\48_TestList.pdb
+C:\Users\user\Desktop\C#_vs\48_TestList\obj\Debug\48_TestList.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\48_TestList\obj\Debug\48_TestList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\48_TestList\obj\Debug\48_TestList.exe
+C:\Users\user\Desktop\C#_vs\48_TestList\obj\Debug\48_TestList.pdb
