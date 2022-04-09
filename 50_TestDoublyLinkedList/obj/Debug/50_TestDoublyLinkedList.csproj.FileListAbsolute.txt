@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\50_TestDoublyLinkedList\bin\Debug\50_TestDoublyLinkedList.exe.config
+C:\Users\user\Desktop\C#_vs\50_TestDoublyLinkedList\bin\Debug\50_TestDoublyLinkedList.exe
+C:\Users\user\Desktop\C#_vs\50_TestDoublyLinkedList\bin\Debug\50_TestDoublyLinkedList.pdb
+C:\Users\user\Desktop\C#_vs\50_TestDoublyLinkedList\obj\Debug\50_TestDoublyLinkedList.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\50_TestDoublyLinkedList\obj\Debug\50_TestDoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\50_TestDoublyLinkedList\obj\Debug\50_TestDoublyLinkedList.exe
+C:\Users\user\Desktop\C#_vs\50_TestDoublyLinkedList\obj\Debug\50_TestDoublyLinkedList.pdb
