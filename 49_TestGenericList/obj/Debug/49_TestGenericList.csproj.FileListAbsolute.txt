@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#_vs\49_TestGenericList\bin\Debug\49_TestGenericList.exe.config
+C:\Users\user\Desktop\C#_vs\49_TestGenericList\bin\Debug\49_TestGenericList.exe
+C:\Users\user\Desktop\C#_vs\49_TestGenericList\bin\Debug\49_TestGenericList.pdb
+C:\Users\user\Desktop\C#_vs\49_TestGenericList\obj\Debug\49_TestGenericList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\49_TestGenericList\obj\Debug\49_TestGenericList.exe
+C:\Users\user\Desktop\C#_vs\49_TestGenericList\obj\Debug\49_TestGenericList.pdb
