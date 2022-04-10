@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C#_vs\54_N-ary_Tree\bin\Debug\54_N-ary_Tree.exe.config
+C:\Users\user\Desktop\C#_vs\54_N-ary_Tree\bin\Debug\54_N-ary_Tree.exe
+C:\Users\user\Desktop\C#_vs\54_N-ary_Tree\bin\Debug\54_N-ary_Tree.pdb
+C:\Users\user\Desktop\C#_vs\54_N-ary_Tree\obj\Debug\54_N-ary_Tree.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\54_N-ary_Tree\obj\Debug\54_N-ary_Tree.exe
+C:\Users\user\Desktop\C#_vs\54_N-ary_Tree\obj\Debug\54_N-ary_Tree.pdb
