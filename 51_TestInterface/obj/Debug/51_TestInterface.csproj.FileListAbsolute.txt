@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\51_TestInterface\bin\Debug\51_TestInterface.exe.config
+C:\Users\user\Desktop\C#_vs\51_TestInterface\bin\Debug\51_TestInterface.exe
+C:\Users\user\Desktop\C#_vs\51_TestInterface\bin\Debug\51_TestInterface.pdb
+C:\Users\user\Desktop\C#_vs\51_TestInterface\obj\Debug\51_TestInterface.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\51_TestInterface\obj\Debug\51_TestInterface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\51_TestInterface\obj\Debug\51_TestInterface.exe
+C:\Users\user\Desktop\C#_vs\51_TestInterface\obj\Debug\51_TestInterface.pdb
