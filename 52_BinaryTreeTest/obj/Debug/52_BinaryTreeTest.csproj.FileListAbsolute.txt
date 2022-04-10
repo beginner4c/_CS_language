@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#_vs\52_BinaryTreeTest\bin\Debug\52_BinaryTreeTest.exe.config
+C:\Users\user\Desktop\C#_vs\52_BinaryTreeTest\bin\Debug\52_BinaryTreeTest.exe
+C:\Users\user\Desktop\C#_vs\52_BinaryTreeTest\bin\Debug\52_BinaryTreeTest.pdb
+C:\Users\user\Desktop\C#_vs\52_BinaryTreeTest\obj\Debug\52_BinaryTreeTest.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C#_vs\52_BinaryTreeTest\obj\Debug\52_BinaryTreeTest.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#_vs\52_BinaryTreeTest\obj\Debug\52_BinaryTreeTest.exe
+C:\Users\user\Desktop\C#_vs\52_BinaryTreeTest\obj\Debug\52_BinaryTreeTest.pdb
